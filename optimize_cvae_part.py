@@ -20,9 +20,11 @@ from torch.utils.data import DataLoader
 from sklearn.neighbors import NearestNeighbors
 from models_voxel_pred import VoxelPredNet
 from torch.utils.data import Subset
+import argparse
 
+parser = argparse.ArgumentParser()
+parser.add_argument('--save_image', action="store_true", default=False)
 
-torch.autograd.set_detect_anomaly(True)
 
 SAVE_IMAGE = True
 N_STEP = 1
