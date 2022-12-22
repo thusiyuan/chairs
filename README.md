@@ -100,14 +100,3 @@ Here we clarify the parameters in config files.
 
 
 
-# Citation
-If you find our work useful, please cite
-```angular2
-@inproceedings{jiang2022chairs,
-  title={CHAIRS: Towards Full-Body Articulated Human-Object Interaction},
-  author={Nan Jiang, Tengyu Liu, Zhexuan Cao, Jieming Cui, Yixin Chen, He Wang, Yixin Zhu, Siyuan Huang},
-  booktitle={Arxiv},
-  year={2022}
-}
-```
-
