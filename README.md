@@ -100,11 +100,11 @@ Here we clarify the parameters in config files.
 
 # Citation
 If you find our work useful, please cite
-```angular2
+```BibTeX
 @article{jiang2022chairs,
   title={CHAIRS: Towards Full-Body Articulated Human-Object Interaction},
   author={Nan Jiang, Tengyu Liu, Zhexuan Cao, Jieming Cui, Yixin Chen, He Wang, Yixin Zhu, Siyuan Huang},
-  booktitle={arXiv preprint arXiv:2212.10621},
+  journal={arXiv preprint arXiv:2212.10621},
   year={2022}
 }
 ```
