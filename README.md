@@ -1,7 +1,7 @@
 # CHAIRS: Towards Full-Body Articulated Human-Object Interaction
 <p align="center"><img src="docs/teaser.png" width="600px"/></p></br>
 
-This is the code repository of **CHAIRS: Towards Full-Body Articulated Human-Object Interaction** - [pdf](https://arxiv.org/abs/2109.07215) - [arxiv](https://arxiv.org/abs/2109.07215) - [project](https://jiann.github.io/ChairsPage) -
+This is the code repository of **CHAIRS: Towards Full-Body Articulated Human-Object Interaction** - [pdf](https://arxiv.org/pdf/2212.10621.pdf) - [arxiv](http://arxiv.org/abs/2212.10621) - [project](https://jiann.github.io/project/chairs) -
 
 
 # Environment
