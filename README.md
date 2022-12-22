@@ -98,5 +98,15 @@ Here we clarify the parameters in config files.
 - `recon_model`: path of checkpoint of reconstruction model
 - `dataset_dir`: path of testing dataset.
 
+# Citation
+If you find our work useful, please cite
+```angular2
+@article{jiang2022chairs,
+  title={CHAIRS: Towards Full-Body Articulated Human-Object Interaction},
+  author={Nan Jiang, Tengyu Liu, Zhexuan Cao, Jieming Cui, Yixin Chen, He Wang, Yixin Zhu, Siyuan Huang},
+  booktitle={arXiv preprint arXiv:2212.10621},
+  year={2022}
+}
+```
 
 
