@@ -1,8 +1,24 @@
-# CHAIRS: Towards Full-Body Articulated Human-Object Interaction
+# *CHAIRS*: Towards Full-Body Articulated Human-Object Interaction
+<p align="left">
+    <a href='https://arxiv.org/abs/2212.10621'>
+      <img src='https://img.shields.io/badge/Paper-arXiv-green?style=plastic&logo=arXiv&logoColor=green' alt='Paper arXiv'>
+    </a>
+    <a href='https://arxiv.org/pdf/2212.10621.pdf'>
+      <img src='https://img.shields.io/badge/Paper-PDF-red?style=plastic&logo=adobeacrobatreader&logoColor=red' alt='Paper PDF'>
+    </a>
+    <a href='https://jnnan.github.io/project/chairs'>
+      <img src='https://img.shields.io/badge/Project-Page-blue?style=plastic&logo=Google%20chrome&logoColor=blue' alt='Project Page'>
+    </a>
+     <a href='https://drive.google.com/file/d/1Buh80YimVzKsdEn9gk00CSGEUsKmkAJT/view'>
+      <img src='https://img.shields.io/badge/Dataset-Data-yellow?style=plastic&logo=Databricks&logoColor=yellow' alt='Dataset'>
+    </a>
+</p>
+
 <p align="center"><img src="figures/teaser.png" width="600px"/></p></br>
 
-This is the code repository of **CHAIRS: Towards Full-Body Articulated Human-Object Interaction** - [pdf](https://arxiv.org/pdf/2212.10621.pdf) - [arxiv](http://arxiv.org/abs/2212.10621) - [project](https://jnnan.github.io/project/chairs) -
+This is the code repository of **CHAIRS: Towards Full-Body Articulated Human-Object Interaction**
 
+[arXiv](https://arxiv.org/abs/2212.10621) | [PDF](https://arxiv.org/pdf/2212.10621.pdf) | [Project Page](https://jnnan.github.io/project/chairs) | [Data](https://drive.google.com/file/d/1Buh80YimVzKsdEn9gk00CSGEUsKmkAJT/view)
 
 # Environment
 We tested our code with CUDA 11.1, PyTorch 1.11.0, and torchvision 0.10.0. 
